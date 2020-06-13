@@ -8,13 +8,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/brianlockerbie/.git"
+      "url": "git+https://github.com/brianlockerbie/sql-library-manager.git"
     },
     "author": "Brian L",
     "bugs": {
-      "url": "https://github.com/brianlockerbie//issues"
+      "url": "https://github.com/brianlockerbie/sql-library-manager/issues"
     },
-    "homepage": "https://github.com/brianlockerbie/#readme",
+    "homepage": "https://github.com/brianlockerbie/sql-library-manager#readme",
     "dependencies": {
       "body-parser": "^1.19.0",
       "connect": "^3.4.1",
