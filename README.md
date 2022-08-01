@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Book Search Engine</h1>
 <p align="center">Module #21 - MERN Challenge</p>
 
 ## Description
