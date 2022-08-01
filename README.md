@@ -2,7 +2,7 @@
 <p align="center">Module #21 - MERN Challenge</p>
 
 ## Description
-This project is a web application that will allow users to search books within the API. This application demonstrates that you can add a book or delete a book and search a book.
+This project is a web application that will allow users to search books within the API. This application demonstrates that you can add a book or delete a book and search a book. AS well as update a book. All CRUD operations.
 
 
 ## Usage
